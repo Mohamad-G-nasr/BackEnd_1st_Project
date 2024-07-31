@@ -1,0 +1,31 @@
+body {
+    background-image: url(../images/bakground.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    font-size: 25px;
+}
+
+.container {
+    width: 850px;
+    height: 300px;
+    margin: auto;
+    margin-top: 10%;
+    text-align: center;
+}
+
+input {
+    font-weight: bold;
+    border-radius: 5px;
+    padding: 3px;
+    border: none;
+    outline: none;
+}
+
+button {
+    background-color: rgb(92, 92, 228);
+    color: white;
+    border-radius: 5px;
+    font-weight: bold;
+    padding: 3px;
+    border: none;
+}
